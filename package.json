@@ -1,0 +1,19 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "a cool tweet app",
+  "main": "index.js",
+  "scripts": { 
+    "start": "nodemon app.js",
+    "test": "tweet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "twitter-js"
+  },
+  "author": "chris",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
